@@ -64,6 +64,7 @@ labs/armadeus/src/autotools/m4/
 labs/armadeus/src/autotools/stamp-h1
 .deps
 .dirstamp/
+labs/rpi3/sdcard.img
 
 # tex
 *.aux
